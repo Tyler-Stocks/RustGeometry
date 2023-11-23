@@ -1,3 +1,3 @@
-fn main() {
-    println!("Hello, world!");
-}
+pub mod Geometry2D;
+
+pub fn main() -> () {}
